@@ -33,4 +33,10 @@ Métodos:
 - `adicionarAba()`  
 - `atualizarPagina()`  
 
-A classe `IPhone` implementa as três interfaces, simulando o funcionamento real de um iPhone com essas três f
+A classe `IPhone` implementa as três interfaces, simulando o funcionamento real de um iPhone com essas três funcionalidades principais.
+
+## Como Executar
+
+1. Compile todos os arquivos:
+   ```bash
+   javac *.java
